@@ -7,6 +7,6 @@
     <link rel="stylesheet" href="assets/styles/style.css">
 </head>
 <body>
-<footer class="header">
+<footer class="containers">
     <p>Au revoir sur mon site</p>
 </footerer>
